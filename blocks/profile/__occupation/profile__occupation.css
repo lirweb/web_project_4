@@ -1,0 +1,13 @@
+      .profile__occupation {
+          white-space: nowrap;
+          text-overflow: ellipsis;
+          display: flex;
+          flex-direction: row;
+          align-items: baseline;
+          font-weight: 400;
+          font-size: 18px;
+          line-height: 22px;
+          max-width: 450px;
+          margin-top: 16px;
+          margin-right: 415px;
+      }

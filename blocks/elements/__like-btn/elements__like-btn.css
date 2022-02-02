@@ -1,0 +1,18 @@
+.elements__like-btn {
+    height: 19px;
+    width: 21px;
+    transition-property: opacity;
+    transition-delay: 0.08s;
+    transition-timing-function: ease-in;
+    transition-duration: 0.2s;
+    cursor: pointer;
+    grid-area: like;
+    margin: 30px 18px 30px auto;
+    padding: 0;
+    background: url(../../../images/Like-logo.svg);
+    border: none;
+}
+
+.elements__like-btn:hover {
+    opacity: 0.5;
+}
