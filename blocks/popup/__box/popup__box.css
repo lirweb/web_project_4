@@ -1,0 +1,14 @@
+.popup__box {
+    top: 195px;
+    left: 40px;
+    right: 40px;
+    width: 430px;
+    border: none;
+    margin: auto;
+}
+
+@media screen and (max-width:510px) {
+    .popup__box {
+        max-width: 282px;
+    }
+}
