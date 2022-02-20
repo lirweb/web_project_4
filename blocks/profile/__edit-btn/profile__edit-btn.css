@@ -1,0 +1,28 @@
+       /*     .profile__edit-btn {
+                background: url(../../../images/profile__edit-btn.svg);
+                background-position: center;
+                margin-right: 0px;
+                margin-bottom: 11px;
+                border: 1px solid #FFFFFF;
+                line-height: 0;
+                grid-area: edit;
+                background-repeat: no-repeat;
+                height: 24px;
+                width: 24px;
+                display: grid;
+            }
+            
+            .profile__edit-btn:hover {
+                opacity: 0.6;
+            }
+            
+            @media screen and (max-width: 750px) {
+                .profile__edit-btn {
+                    width: 18px;
+                    height: 18px;
+                    flex-direction: column;
+                    align-self: flex-end;
+                    margin-bottom: 4px;
+                }
+            }
+            /*
