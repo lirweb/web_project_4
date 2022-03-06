@@ -1,0 +1,11 @@
+
+
+.button_type_like_on{
+    background-image: url(../../../../../images/button_type_like_on.svg);
+  }
+  
+
+  
+.button_type_like_on:hover {
+    opacity: 0.5;
+}
