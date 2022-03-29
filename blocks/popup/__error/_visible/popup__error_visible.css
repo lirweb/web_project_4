@@ -1,0 +1,7 @@
+
+
+.popup__error_visible{
+    visibility: visible;
+    display: block;
+    margin-left: 36px;
+}
