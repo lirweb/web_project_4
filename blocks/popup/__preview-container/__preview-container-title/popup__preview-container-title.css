@@ -1,0 +1,16 @@
+.popup__preview-container-title {
+    color: #fff;
+    font-size: 12px;
+    line-height: 15px;
+    visibility: visible;
+    opacity: 1;
+    display: contents;
+}
+
+@media screen and (max-width:600px) {
+    .popup_preview-container-title {
+        max-width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
